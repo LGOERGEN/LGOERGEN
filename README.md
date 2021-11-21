@@ -5,7 +5,7 @@
 <br />
 
 #### Languages and Tools:
-
+<br />
 <!-- This content will not appear in the rendered Markdown -->
 
 <img align="left" alt="Python" width="85px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
