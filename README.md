@@ -1,4 +1,4 @@
-#### Hi there 👋
+#### Hello!
 
 #### I'm an Anlytics Developer and MSc Aritificial Intelligence student
 
