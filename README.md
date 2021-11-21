@@ -4,6 +4,8 @@
 
 <br />
 
+---
+
 #### Languages and Tools:
 
 <img align="left" alt="Python" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" />
