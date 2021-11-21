@@ -6,7 +6,7 @@
 
 #### Languages and Tools:
 
-<br />
+
 <img align="left" alt="Python" width="85px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
 <img align="left" alt="RStudio" width="72px" src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" />
 <img align="left" alt="Tableau" width="95px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
