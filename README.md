@@ -14,5 +14,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="LGOERGEN's GitHub Stats" src="https://github-readme-stats.lgoergen.vercel.app/api?username=lgoergen&show_icons=true&hide_border=true" />
+
+</details>
 
