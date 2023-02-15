@@ -1,6 +1,6 @@
 #### Hello!
 
-#### I'm a full time Data Scientist and part time MSc Aritificial Intelligence student
+#### I'm Senior Data Scientist and part-time MSc Aritificial Intelligence student
 
 <br />
 
